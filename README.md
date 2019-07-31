@@ -3,7 +3,7 @@
 
 Usage (demo): `python demo.py`
 
-This is code from `demo.py`:
+This code is from `demo.py`:
 ```python
 m singleme import singleme
 
