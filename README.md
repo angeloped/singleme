@@ -14,4 +14,6 @@ while 1:
 	print("hello world")
 ```
 
+To install: `python setup.py install`
+
 That's all!
